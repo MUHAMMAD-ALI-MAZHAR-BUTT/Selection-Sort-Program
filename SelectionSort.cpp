@@ -1,6 +1,6 @@
 // Subscribe Efficient Learning World 
 //You can watch the explanation of this Sorting algorithm on youtube channel name Efficient Learning World.
-
+//Link of the explanation of this code is : https://youtu.be/LcjMYntPKA0
 #include<iostream>					// Header file 
 using namespace std;
 void Selection_Sort(int array[], int size) 
